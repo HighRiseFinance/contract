@@ -1,8 +1,8 @@
 # contract
 Readme file for contract 
 
-We at High Rise Finance are building our own unique NFT Marketplace on Binance Smart Chain, that will attract partnership with other tokens on BSC.
+The opportunity: The current NFT market place is created as a B2C model, marketplaces create the medium where the artists are able to mint and sell their art in an economically beneficial way. Analysing the market need, we identified the B2B area where many protocols need a platform they can afford to list the art created that serves the use case for their tokens. The opportunity for us was clear, creating a B2B NFT marketplace where the other protocols can afford to launch in a quick and secured manner.
 
-Presale started the 11th June and sold out quickly, contract was a DXMint with 3% liqudity and 3% to holders. During this time we realised we wanted instead of partnership with NFT marketplaces, we wanted our own with our special twist on it. With a decreasing Bitcoin and BNB we noticed how hard it was to attract new investors, especially with those features we had today. Therefor are we launching a new presale with this contract, that will give holders BUSD automaticaly from 10% of the tax and 5% tax goes to liqudity, to give stability for the price.   
+The product: We are building HighRise as an NFT Marketplace Launchpad, serving thousands of protocols currently trying to create an NFT conomic value for theirs tokens. We are Uberizing the current NFT Market place industry.
 
-We are also launching a new website that better suits our mission. 
+The business model: Platform as a service for different protocols renting space on our market place with affordable prices, in addition, we will provide vetting and background checks on the value of the protocols.
